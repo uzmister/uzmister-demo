@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abubakrgulomov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E242A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/sandiction" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-1E242A?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/abu.gulomov" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-1E242A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://pinterest.com/sleepyabubakr/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-0D1117?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinterest-1E242A?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
   <a href="https://x.com/boshmoq" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1E242A?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
@@ -44,14 +44,14 @@
 <h2 align="center"> <img src="/images/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1E242A?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E242A?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1E242A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1E242A?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1E242A?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-1E242A?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1E242A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-1E242A?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 <br/>
