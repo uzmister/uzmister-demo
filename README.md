@@ -26,7 +26,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
 
@@ -61,9 +61,9 @@
 
 <div align = "center"> 
 
-![](https://nirzak-streak-stats.vercel.app/?user=boshmoq&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=800px)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nafderlin&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=800px)<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshmoq&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafderlin&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align = "center">
 
-![Visitor Count](https://count.getloli.com/get/@boshmoq?theme=3d-num)
+![Visitor Count](https://count.getloli.com/get/@nafderlin?theme=3d-num)
   
 </div>
 
