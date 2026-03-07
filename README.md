@@ -27,31 +27,33 @@
 
 <!-- <h1 align="center">About Me:</h1> -->
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&weight=900&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=24&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
-
 ---
 
 <img src="gif.gif" width="250" align="left" style="margin-left: 20px;" />
 <br/>
 
-<p>
+<!-- <p>
 Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
-</p>
+</p> -->
 
+- "Digital Craftsman" who believes great products live at the intersection of clean code and thoughtful design
+- I love building websites and apps where design, functionality and even small details matter.
+- I enjoy making products that are both practical and visually satisfying.
+- Always open to learning, picking up new technologies and growing through the work itself
+
+<br/>
+
+<!-- <p align="center">
+   <em><b> Target International School '26 </b></em> <br/>
+   <em><b> Building Vinex.uz </b></em><br/>
+   <em><b> Front-End Developer & UI/UX Designer </b></em><br/>
+</p> -->
 
 <br/>
 
-<p align="center">
-   <img src="/images/img3.png" width="15"/>   <em><b> Target International School '26 </b></em> <br/>
-   <img src="/images/shakaroob.png" width="15"/>   <em><b> Building Vinex.uz </b></em><br/>
-   <img src="/images/img2.png" width="15"/>   <em><b> Front-End Developer & UI/UX Designer </b></em><br/>
-</p>
+---
 
-<br/>
-<br/>
-
-<h2 align="center"> <img src="/images/title2.png" width="25"/> <em> Technologies </em> </h2>
+<!-- <h2 align="center"> <img src="/images/title2.png" width="25"/> <em> Technologies </em> </h2> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-1E242A?style=for-the-badge&logo=html5&logoColor=white" />
@@ -65,19 +67,22 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 </p>
 
 <br/>
-<br/>
 
-<h2 align="center""> <img src="/images/title3.png" width="25"/> <em> Statistics </em> </h2>
+---
+
+<!-- <h2 align="center""> <img src="/images/title3.png" width="25"/> <em> Statistics </em> </h2> -->
 
 <div align = "center"> 
 
-![](https://nirzak-streak-stats.vercel.app/?user=nafderlin&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=800px)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nafderlin&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=1000px)<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafderlin&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
-<h3 align="center"> <em> Visitor Count </em> </h3>
+---
+
+<!-- <h3 align="center"> <em> Visitor Count </em> </h3> -->
 
 <div align = "center">
 
