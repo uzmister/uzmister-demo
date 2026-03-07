@@ -2,6 +2,8 @@
 
 <img src = "banner.jpg"/>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nafderlin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E242A?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,9 +24,12 @@
 
 <br>
 
-<!-- <h2 align="center"> <img src="/images/title1.png" width="25"/> <em>About  me: </em></h2> -->
 
-<h1 align="center">About Me:</h1>
+<!-- <h1 align="center">About Me:</h1> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&lines=About+Me%3A)](https://git.io/typing-svg)
+
+---
 
 <img src="gif.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
