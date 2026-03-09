@@ -38,6 +38,7 @@ Hello There! <em><b> I'm Ruslan </b></em>, a Full-stack Developer. I build, craf
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- <p align="center">
    <em><b> Target International School '26 </b></em> <br/>
@@ -72,7 +73,7 @@ Hello There! <em><b> I'm Ruslan </b></em>, a Full-stack Developer. I build, craf
 
 <div align = "center"> 
 
-![](https://nirzak-streak-stats.vercel.app/?user=uzmister&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=1000px)<br/><br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=uzmister&theme=github-dark-blue&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)<br/><br/>
 
 ---
 
