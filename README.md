@@ -1,23 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Abu+Bakr!;Developer+from+Uzbekistan;Learning+%E2%80%A2+Exploring+%E2%80%A2+Building;Always+on+the+move.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Ruslan!;Developer+from+Uzbekistan;Learning+%E2%80%A2+Exploring+%E2%80%A2+Building;Always+on+the+move.)](https://git.io/typing-svg)
 
 <img src = "banner.jpg"/>
 
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nafderlin" target="_blank">
+  <a href="https://www.linkedin.com/in/uzmister" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E242A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/nafderlin" target="_blank">
+  <a href="https://t.me/uzmister" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1E242A?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nafderlin" target="_blank">
+  <a href="https://www.instagram.com/uzmister" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1E242A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://pinterest.com/nafderlin" target="_blank">
+  <a href="https://pinterest.com/uzmister" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-1E242A?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://x.com/nafderlin" target="_blank">
+  <a href="https://x.com/uzmister" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1E242A?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
@@ -31,15 +31,9 @@
 <img src="gif.gif" width="250" align="left" style="margin-left: 20px;" />
 <br/>
 
-<!-- <p>
-Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
-</p> -->
-
-- "Digital Craftsman" who believes great products live at the intersection of clean code and thoughtful design
-- I love building websites and apps where design, functionality and even small details matter.
-- I enjoy making products that are both practical and visually satisfying.
-- Always open to learning, picking up new technologies and growing through the work itself
-- I got a site: www.abubakr.pro
+<p>
+Hello There! <em><b> I'm Ruslan </b></em>, a Full-stack Developer. I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+</p>
 
 <br/>
 <br/>
@@ -78,11 +72,11 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <div align = "center"> 
 
-![](https://nirzak-streak-stats.vercel.app/?user=nafderlin&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=1000px)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=uzmister&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=1000px)<br/><br/>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafderlin&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzmister&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
@@ -94,7 +88,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <h2>Visitor Count:</h2>
 
-![Visitor Count](https://count.getloli.com/@nafderlin?name=nafderlin&theme=3d-num&padding=16&offset=0&align=center&scale=1.3&pixelated=1&darkmode=auto)
+![Visitor Count](https://count.getloli.com/@uzmister?name=uzmister&theme=3d-num&padding=16&offset=0&align=center&scale=1.3&pixelated=1&darkmode=auto)
   
 </div>
 
